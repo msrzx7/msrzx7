@@ -29,5 +29,6 @@ Currently, I'm working through the book **Python for Everybody** by Dr. Charles 
 
 ## 📫 Connect with Me
 - Email: msrzx7@gamil.com
+- Linkedin: https://www.linkedin.com/in/mahesh-singh-shekhawat-bb0691338/
 
 
